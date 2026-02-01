@@ -19,6 +19,14 @@ A Java-based client-server chat system that supports multiple clients, real-time
 - **Logging:** `chat_log.txt` with timestamps
 - **Execution:** Command-line interface
 
+## Authors
+
+- Fatimah Saleh Baothman 
+- Rafal Abdullah Riri 
+- Maryam Turki Kabbani 
+- Sidrah Faisal Alyamani 
+
+
 ## Usage
 
 ### Server
